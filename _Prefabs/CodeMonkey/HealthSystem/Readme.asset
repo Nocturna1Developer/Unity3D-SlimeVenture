@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1af678181f0f15a4b96db73dc5dbcda4, type: 3}
+  m_Name: Readme
+  m_EditorClassIdentifier: 
+  codeMonkeyHeader: {fileID: 2800000, guid: dfcae2a5ea15f7a439575b76d8a79cc9, type: 3}
+  title: Health System
+  titlesub: Code Monkey
+  loadedLayout: 0
+  sections:
+  - heading: Hi there!
+    linkText: 
+    url: 
+    textLines:
+    - Here's a simple Health System, easy to use and fully featured.
+    - Apply to the Player, Enemies, Objects or anything that you want to have Health.
+    - 
+  - heading: Video Tutorial (How To + Code Walkthrough)
+    linkText: https://www.youtube.com/watch?v=BHoqVb7psno
+    url: https://www.youtube.com/watch?v=BHoqVb7psno
+    textLines: []
+  - heading: 
+    linkText: 
+    url: 
+    textLines: []
+  - heading: How To Use
+    linkText: 
+    url: 
+    textLines:
+    - There are two ways to use it
+    - 1. Create a HealthSystem through code using the C# Constructor
+    - 2. Add HealthSystemComponent to any GameObject
+    - Then interact with it through the simple functions or the built-in scripts
+    - Also you can make your own HealthBar or use the included ones
+    - 
+  - heading: 
+    linkText: 
+    url: 
+    textLines: []
+  - heading: Enjoy!
+    linkText: https://youtube.com/c/CodeMonkeyUnity
+    url: https://youtube.com/c/CodeMonkeyUnity
+    textLines:
+    - I hope you find this Asset useful.
+    - Please write a review on the Asset Store page, I'd love to hear your thoughts.
+    - Best of luck with your games!
+    - <b>- Code Monkey</b>
+  - heading: 'My other Assets:'
+    linkText: 
+    url: 
+    textLines: []
+  - heading: Mouse Cursor System PRO
+    linkText: https://assetstore.unity.com/packages/tools/utilities/mouse-cursor-system-pro-animated-191792
+    url: https://assetstore.unity.com/packages/tools/utilities/mouse-cursor-system-pro-animated-191792
+    textLines: []
