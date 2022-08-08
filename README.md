@@ -1,4 +1,4 @@
-# Unity3D-SlimeVenture
+# SlimeVenture
 
 ## PLAY HERE https://nocturna1.itch.io/slime-venture
 
