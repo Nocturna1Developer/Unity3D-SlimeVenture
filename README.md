@@ -1,6 +1,8 @@
 # SlimeVenture
 
-## PLAY HERE https://nocturna1.itch.io/slime-venture
+## PLAY HERE: https://nocturna1.itch.io/slime-venture
+
+## WATCH HERE: <https://www.youtube.com/watch?v=r5-DEYGfWAA&ab_channel=NOKTURNALLGAMEDEV>
 
 ## A fast-paced, 2.5D experience where you play as a smol slime with a grappling hook/revolver!
 Estimated Playtime: ~30 minutes
